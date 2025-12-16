@@ -1,12 +1,12 @@
 [
   {
-    "CNAE":"1012101",
+    "CNAE":1012101,
     "Descrição":"Abate de aves",
     "SEGMENTO":"I",
     "Nível de Antecipação":" R10"
   },
   {
-    "CNAE":"1012102",
+    "CNAE":1012102,
     "Descrição":"Abate de pequenos animais",
     "SEGMENTO":"I",
     "Nível de Antecipação":" R10"
