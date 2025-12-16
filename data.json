@@ -1,5 +1,5 @@
 {
-
+  "items": [
     {
       "id": 1012101,
       "txt": "Abate de aves",
@@ -12240,5 +12240,5 @@
         "nivelAntecipacao": "R8"
       }
     }
-
+  ]
 }
